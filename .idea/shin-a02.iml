@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Solution07/.gradle/7.1/vcsMetadata-1" />
-      <excludeFolder url="file://$MODULE_DIR$/Solution07/build/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/excercise07/build/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/excercise07/.gradle/7.1/vcsMetadata-1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
