@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯Õ¶…ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äõÆÜùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­œÁÌ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÉÍåêùÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(êä›Çüÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡—ËÎıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äâ¿ˆıÿÿÿÿ
+^
+java:S2184$"HCast one of the operands of this multiplication operation to a "double".(É•Üı
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ùü…Šùÿÿÿÿ
