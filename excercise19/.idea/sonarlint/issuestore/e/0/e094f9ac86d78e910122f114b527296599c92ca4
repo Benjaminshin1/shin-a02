@@ -1,0 +1,21 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ì‡µûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ì„
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¨ğæ¨
+N	java:S106""9Replace this use of System.out or System.err by a logger.(´òªÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÃÇÛÕ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¬¯Š’
+>
+java:S1905."(Remove this unnecessary cast to "float".(µ˜î
+Q	java:S1250"<This block of commented-out lines of code should be removed.(ç†¡Ÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(”Ë’êüÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(é‚ËŒ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Ø—ô
+I
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹
+G
+java:S1144"1Remove this unused private "input_string" method.(´Ì„
+h
+java:S11922"MDefine a constant instead of duplicating this literal "Your BMI is " 3 times.(”Ë’êüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†¡±ùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ÿêF

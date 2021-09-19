@@ -1,0 +1,26 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ì’Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÊ¾Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+c	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÝž
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¶Û¼Íøÿÿÿÿ
+h	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ãÈáýÿÿÿÿ
+M
+java:S1854("7Remove this useless assignment to local variable "TAX".(²±ÅÛ
+G
+java:S1172'",Remove this unused method parameter "state".(„ãÈáýÿÿÿÿ
+>
+java:S1481("(Remove this unused "TAX" local variable.(²±ÅÛ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ïŠŠ£ûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ïŠŠ£ûÿÿÿÿ
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(š÷´ñûÿÿÿÿ8Ÿ¸Ùâ¿/
+D
+java:S1144".Remove this unused private "input_int" method.(ƒÊ¾Ô
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²±ÅÛ
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öôº 
+k	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¼„œøÿÿÿÿ
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Îð
+e	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‘ß:
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õáìœúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹Ô·í
